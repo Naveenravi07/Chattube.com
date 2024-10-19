@@ -1,0 +1,9 @@
+youtube_transcript_api
+langchain
+langchain_core
+langchain_google_genai
+langchain_community
+langchain_groq
+faiss-cpu
+google-generativeai
+transformers
